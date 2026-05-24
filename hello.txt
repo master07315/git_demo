@@ -16,3 +16,4 @@ hello git! hello gcqaq!master test
 hello git! hello gcqaq!hot-fix test
 >>>>>>> hot-fix
 github test
+demo2_test
